@@ -5,3 +5,7 @@ The  goal is to find trends in the traffic and accident data and observe if ther
 and their environment and socio-economic background. 
 Environmental factors assessed were weather records, storm patterns, and air pollution levels from greenhouse gas emissions.
 Certain socio-economic factors such as education, income, poverty, and unemployment were also eveluated.
+
+
+<img>![Poster-1](https://user-images.githubusercontent.com/27828691/126054513-16500377-647b-433c-bddd-f11488bf5dd3.jpg)</img>
+
